@@ -1,0 +1,37 @@
+[
+  {
+    "name":"Mersedes-Benz",
+    "model":"S-Class",
+    "year":1991,
+    "vol":3.2,
+    "country":"Germany"
+  },
+  {
+    "name":"BMW",
+    "model":"M5",
+    "year":1999,
+    "vol":4.9,
+    "country":"Germany"
+  },
+  {
+    "name":"Jeep",
+    "model":"Grand Cherokee",
+    "year":1993,
+    "vol":5.2,
+    "country":"USA"
+  },
+  {
+    "name":"Hyundai",
+    "model":"Sonata",
+    "year":2020,
+    "vol":2.0,
+    "country":"Korea"
+  },
+  {
+    "name":"Volvo",
+    "model":"S80",
+    "year":2002,
+    "vol":2.4,
+    "country":"Sweden"
+  }
+]
